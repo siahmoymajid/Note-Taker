@@ -25,10 +25,8 @@ router.delete("/notes/:id", (req, res) => {
   fs.readFile("db/db.json", "utf-8", (err, data) => {
     if (err) throw err;
     let jsondata = JSON.parse(data);
-    let notes = jsondata.filter(note => note.id !== req.params.id)
-      
-    
-    
+    let notes = jsondata.filter((note) => note.id !== req.params.id);
+
     fs.writeFile("db/db.json", JSON.stringify(notes), (err) =>
       err ? console.log(err) : res.redirect("/notes")
     );
