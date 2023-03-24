@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-[image](./Develop/assets/images/notetaker.PNG)
+[image](./images/notetaker.PNG)
 
 
 ## Link
