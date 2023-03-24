@@ -10,8 +10,8 @@ I am also able to delete a note if I wanted to.
 
 ## Screenshots
 
-[image](./images/notetaker.PNG)
-[image](./images/disbatching.PNG)
+[example](./images/notetaker.PNG)
+[example](./images/disbatching.PNG)
 
 ## Link
 
