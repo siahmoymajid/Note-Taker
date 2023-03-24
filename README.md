@@ -4,4 +4,9 @@
 
 ## Screenshots
 
-[Browser Screenshot](./Develop/assets/images/notetaker.PNG)
+[image](./Develop/assets/images/notetaker.PNG)
+
+
+## Link
+
+[Github](https://github.com/siahmoymajid/Note-Taker)
